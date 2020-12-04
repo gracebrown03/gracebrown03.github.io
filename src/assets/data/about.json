@@ -1,0 +1,39 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "My passion for STEM developed from a young age. I was fascinated by the patterns and order by which numbers arranged themselves. I excelled in mathematics throughout primary and secondary school, and discovered an innate passion for physics and programming. This led me to pursuing a mechatronics engineering degree at The University of Melbourne. Through my experiences volunteering with not-for-profit organisations - including the Melbourne Space Program and In2Science - and my work experience with CubeSat constellations & High-Altitude-Platform (HAP) technologies, I quickly discovered that developing space-technology and space exploration was a career path I desperately wanted to pursue."
+          }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/grace-brown-619b59161/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/gracebrown03"
+        },
+        {
+            "icon": "youtube",
+            "title": "Youtube",
+            "http": "https://www.youtube.com/channel/UCUKgxMila3E__Yz0EicBGCw?view_as=subscriber"
+        }
+    ],
+    "hobbies": [
+        {
+            "icon": "music",
+            "title": "Piano"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        },
+        {
+            "icon": "coffee",
+            "title": "Hot Choccy"
+        }
+    ]
+}
