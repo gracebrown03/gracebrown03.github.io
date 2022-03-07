@@ -4,8 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng server.js",
-    "start:en": "ng serve --configuration=en",
-    "start:pt": "ng serve --configuration=pt",
+    "start:en": "ng server.js --configuration=en",
+    "start:pt": "ng server.js --configuration=pt",
     "build": "ng build",
     "build:en": "ng build --configuration=en",
     "build:pt": "ng build --configuration=pt",
