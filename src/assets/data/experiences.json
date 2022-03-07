@@ -13,7 +13,7 @@
                 "city": "Melbourne",
                 "country": "Australia",
                 "role": "Student Mentor",
-                "description": ""
+                "description": "In2Science aims to use the power of mentoring relationships to improve secondary students’ enthusiasm for science and maths, to increase student engagement and to build aspirations for further STEM study. <br> <br> <i> Responsibilities: </i> <br> * Help students work on small projects using a tetrix robot, lego league robots, 3D simulations and 3D printing."
               },
             {
                 "language": "",
@@ -49,7 +49,7 @@
                 "city": "Melbourne",
                 "country": "Australia",
                 "role": "Software Engineer",
-                "description": "I am a part of Melbourne Space Program's Rover Team. In collaboration with Monash's <i>Nova Rover</i> team, we are competing in the University Rover Challenge that will be held in Utah. The competition involves the development of a remotely operated rover that can accomplish a variety of tasks that may one day assist astronauts working on the surface of mars. <br> <i> Responsibilities: </i> <br> * Collecting and analysing sensor data using Robot Operating System (ROS)"
+                "description": "I am a part of Melbourne Space Program's Rover Team. In collaboration with Monash's <i>Nova Rover</i> team, we are competing in the University Rover Challenge that will be held in Utah. The competition involves the development of a remotely operated rover that can accomplish a variety of tasks that may one day assist astronauts working on the surface of mars. <br> <br> <i> Responsibilities: </i> <br> * Collecting and analysing sensor data using Robot Operating System (ROS)"
               },
             {
                 "language": "",
@@ -60,7 +60,7 @@
               }
         ],
         "technologies": [
-            "Magento 1.X", "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SOAP", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux"
+            "ROS", "Gazebo", "Sensor"
         ],
         "medias": [
             {
@@ -85,20 +85,19 @@
         "id": 3,
         "position": 3,
         "startAt": "11-01-19",
-        "endAt": "02-23-202020",
+        "endAt": "02-23-2020",
         "companyName": "Skykraft",
-        "website": "http://deevo.com.br/",
+        "website": "https://www.skykraft.com.au/",
         "logo": "../../assets/template/experience/logo/deevo-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
-                "city": "São Paulo",
-                "country": "Brasil",
-                "role": "Desenvolvedor Mobile",
-                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
-            },
-            {
                 "language": "en",
+                "city": "Canberra",
+                "country": "Australia",
+                "role": "Mechatronic Engineering Intern",
+                "description": "Skykraft is an Australian space service company and faculty of UNSW Canberra at the Australian Defence Force Academy (ADFA). Skykraft specialises in the conceptualisation, design, manufacture and operations of SmallSat constellations for the delivery of global services. <br> <br> <i> Responsibilities: </i> <br> * Programming of electronic hardware using Teensy microcontroller and Arduino IDE <br> * Fabrication of prototypes of CubeSat subsystems (designed using Fusion) <br> * Electrical circuit design <br> * Other typical electronics tasks (i.e., soldering of electronics) and familiarity with the workshop tools and specialised software"    },
+            {
+                "language": "pt",
                 "city": "São Paulo",
                 "country": "Brazil",
                 "role": "Mobile Developer",
@@ -134,11 +133,10 @@
             },
             {
                 "language": "en",
-                "city": "Utrecht",
-                "country": "Netherlands",
-                "role": "Full-stack Developer",
-                "description": "At <b>Skydreamer</b>, I was invited to be part of the development team of the first European mobile application that turns traveling with friends into a <i>Swipe and Match Game</i>, offering thousands of destinations all around the world. Always with the best offers for Flights, Hotels, apartments.<br><br>At <i>Skydreamer</i>, I had the amazing experience of a <i>startup environment</i>, the pros, and cons, expanding my mind of how to lead with the remote management, with short deadlines periods and very limited resources. In September 2017, with the 'Beta' version running and with several real users, we went to <i>TechCrunch Disrupt<i> - San Francisco where we received an offer from an international sports and entertainment agency."
-            }
+                "city": "Melbourne University",
+                "country": "Australia",
+                "role": "Avionics Lead Engineer",
+                "description": "Project ARES is the University of Melbourne’s rocketry team. The project involves designing, building and launching a single-stage high powered rocket including a payload subsystem capable of supporting a 2kg CubeSat. As the avionics technical lead, responsibilities of this role include: <br> <br> * Designing and manufacturing the rocket’s flight computer to log various data (including the rocket’s altitude) <br> * Rocket’s control system including parachute ejection time <br> * Supervise and coordinate individual subsystem team & build backlog of activities for the avionics team"  }
         ],
         "technologies": [
             "HTML5", "CSS3", "Javascript", "jQuery", "PHP", "Laravel", "Slim Framework", "React", "React Native", "MySQL", "Elastic Search", "AWS", "Firebase", "Java", "Android", "Swift", "iOS", "Python (data scrapers)", "Scrum", "Unit Tests", "TDD"
@@ -163,7 +161,7 @@
         "startAt": "07-01-2020",
         "endAt": "",
         "companyName": "Lux Aerobot",
-        "website": "https://www.qat.com/",
+        "website": "https://www.luxaerobot.com/",
         "logo": "../../assets/template/experience/logo/qat-global-logo.png",
         "internationalizations": [
             {
@@ -171,15 +169,14 @@
                 "city": "Uberaba",
                 "country": "Brasil",
                 "role": "Engenheiro de Software",
-                "description": "Na <b>QAT Global</b>, eu estava encarregado de ser o <i>Pod Leader</i> de back-end, trabalhando com <i>Big Data Analysis</i> para o maior fornecedor americano de tecnologia de água, que tem negócios em mais de <i>150 países</i>, permitindo que clientes em todo o mundo transportem, tratem, testem e usem água de maneira eficiente em instalações de utilidade pública, residencial, comercial, agrícola e industrial.<br><br>Na <i>QAT Global</i>, assegurei de que todos os desenvolvedores aplicassem as melhores práticas e padrões necessários para um aplicativo corporativo de <i>alta disponibilidade</i>, melhorando não apenas minhas habilidades técnicas, mas também as habilidades interpessoais."
+                "description": "Na <b>QAT Global</b>, eu estava encarregado de ser o <i>Pod Leader</i> de back-end, trabalhando com <i>Big Data Analysis</i> para o maior fornecedor americano de tecnologia de água, que tem negócios em mais de <i>150 países</i>, permitindo que clientes em todo o mundo transportem, tratem, testem e usem água de maneira eficiente em instalações de utilidade pública, residencial, comercial, agrícola e industrial.<br><br> <i>QAT Global</i>, assegurei de que todos os desenvolvedores aplicassem as melhores práticas e padrões necessários para um aplicativo corporativo de <i>alta disponibilidade</i>, melhorando não apenas minhas habilidades técnicas, mas também as habilidades interpessoais."
             },
             {
                 "language": "en",
-                "city": "Uberaba",
-                "country": "Brazil",
-                "role": "Software Engeneer",
-                "description": "At <b>QAT Global</b>, I was in charge of being the <i>Pod Leader</i> in the back-end side, working with <i>Big Data Analysis</i> for the largest <i>American Water Technology</i> provider which has business in more than <i>150 countries</i>, enabling customers worldwide to transport, treat, test, and efficiently use water in public utility, residential, commercial, agricultural and industrial settings.<br><br>At <i>QAT Global</i>, I made sure that all the developers were applying the best patterns, practices, and standards needed for an enterprise application of <i>high availability</i> needs, improving not only my technical skills but also the soft skills."
-            }
+                "city": "Melbourne",
+                "country": "Australia",
+                "role": "Satellite Systems Engineer",
+                "description": "Space-robotics company that specialises in the design, manufacturing and operations of high-altitude platforms for earth observation. <br> <br> Responsibilities: <br> * Programming of onboard electronics and hardware integration <br> * Development of flight tracking and prediction software system <br> * Development of machine learning algorithms for object classification"      }
         ],
         "technologies": [
             "Java", "Spring Boot", "Play Framework", "Javascript", "jQuery", "AngularJS", "NoSQL", "MongoDB", "SQL", "PostgreSQL", "Unit Tests", "Integration Tests", "Versioning Control", "BitBucket", "Git", "Maven", "Scrum", "Linux"
