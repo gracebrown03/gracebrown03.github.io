@@ -1,0 +1,19 @@
+[
+    {
+        "thumbnail": "../../assets/posts/post-11-03-2019.jpg",
+        "http": "https://www.linkedin.com/feed/update/urn:li:activity:6731775430933782528/",
+        "date": "11-10-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The Most Beautiful Concept in Mathematics.",
+                "description": "You have probably already come across the <b> Mandelbrot Set </b>, but have you ever come across the <b> Buddhabrot Set</b>?"
+              },
+            {
+                "language": "",
+                "title": "",
+                "description": ""
+              }
+        ]
+    }
+]
